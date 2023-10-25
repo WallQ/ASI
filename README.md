@@ -1,2 +1,13 @@
-# ASI
-This is an evaluation project of the ASI curricular unit.
+# ASI - ADMINISTRAÇÃO DE SISTEMAS INFORMÁTICOS
+
+## Description
+
+## Technologies
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64" />](https://www.python.org/)
+
+## License
+
+[MIT](https://github.com/WallQ/ASI/blob/master/LICENSE)
+
+**ESTG - Escola Superior de Tecnologia e Gestão | Politécnico do Porto**
