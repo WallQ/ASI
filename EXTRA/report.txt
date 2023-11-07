@@ -1,0 +1,12 @@
+ASI Lda.	Disk space usage by users
+----------------------------------------------------------------
+User		Disk Space Used		% Of Usage
+alexandre		434.99MB		16.85%
+joana		1187.99MB		46.02%
+antonio		117.74MB		4.56%
+carlos		87.03MB		3.37%
+cesar		0.94MB		0.04%
+rosa		752.88MB		29.16%
+
+Total occupied space: 2581.58MB
+Average occupied space: 430.26MB

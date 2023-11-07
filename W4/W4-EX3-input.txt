@@ -1,0 +1,15 @@
+#Page Visited;Username;Timestamp;Total time visited
+https://intranet.empresa.pt/horario;antonio;2017 Mar 03 05:12:41.211 PDT; 00:01:34
+https://www.facebook.com/profile;antonio;2017 Mar 03 05:13:11.011 PDT; 00:00:12
+https://intranet.empresa.pt/horario;antonio;2017 Mar 03 05:15:40.113 PDT; 00:01:12
+http://moodle.com/asi;marta;2017 Mar 03 05:17:41.211 PDT; 00:05:25
+https://www.facebook.com/profile;joaquim;2017 Mar 03 05:19:41.211 PDT; 01:05:42
+https://intranet.empresa.pt/reunioes;marta;2017 Mar 03 05:20:40.211 PDT; 00:01:34
+http://moodle.com/asi;marta;2017 Mar 03 05:21:41.811 PDT; 00:01:01
+https://intranet.empresa.pt/reunioes;antonio;2017 Mar 03 05:22:11.45 PDT; 00:02:00
+https://www.ojogo.pt;joaquim;2017 Mar 03 05:23:20.147 PDT; 00:08:23
+https://intranet.empresa.pt/marcacoes_salas;antonio;2017 Mar 03 05:25:14.222 PDT; 00:02:34
+http://www.google.com/images;marta;2017 Mar 03 05:27:12.138 PDT; 00:00:37
+https://intranet.empresa.pt/ferias;joaquim;2017 Mar 03 05:28:41.211 PDT; 00:00:14
+https://intranet.empresa.pt/horario;antonio;2017 Mar 03 05:28:41.320 PDT; 00:01:34
+https://www.facebook.com/profile;marta;2017 Mar 03 05:29:41.211 PDT; 00:02:12

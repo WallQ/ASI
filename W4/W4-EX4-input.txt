@@ -1,0 +1,15 @@
+#PageVisited;Username; Files downloaded;Total size(MB)
+https://intranet.empresa.pt/horario;antonio;2;23
+https://www.facebook.com/profile;antonio;1;56
+https://intranet.empresa.pt/horario;antonio;9;2
+http://moodle.com/asi;marta;5;21
+https://www.facebook.com/profile;joaquim;1;67
+https://intranet.empresa.pt/reunioes;marta;7;9
+http://moodle.com/asi;marta;5;32
+https://intranet.empresa.pt/reunioes;antonio;6;43
+https://www.ojogo.pt;joaquim;1;1
+https://intranet.empresa.pt/reunioes;fernando;98;678
+http://www.google.com/images;marta;2;2
+https://intranet.empresa.pt/ferias;joaquim;1;0.2
+https://intranet.empresa.pt/horario;antonio;1;0.3
+https://www.facebook.com/profile;marta;56;5
