@@ -5,15 +5,6 @@ def reward(hash_table):
     min_username = None
     hash_table_visits = {}
 
-    # Page Visited;Username;Timestamp;Total time visited
-    # www.example.com;User1;2017 Mar 03 05:12:41.211 PDT; 00:01:34
-    # hashtable = {url: {username: total_time}}
-    # return the Username with the shortest number of visits to Facebook and print a
-    # congratulation on the screen (ex: "Employee of the month: <Username>")
-    # return the Username with the longest total time spent on Facebook and print a
-    # message on the screen (ex: "<Username> you do need to focus more on your work")
-    # hash_table_visits = {username: visits} <- max visits user & min visits user
-
     for url, usernames in hash_table.items():
         for username, total_time in usernames.items():
             if 'https://www.facebook.com/' in url:
