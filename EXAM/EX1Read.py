@@ -1,27 +1,22 @@
-import re
+def read_file(file_name):
+    hash_table = {}
 
-
-def read(file_name):
-    sales_hash_table = {}
-
-    with open('EX1-input.txt', 'r') as file:
+    with open(file_name, 'r') as file:
         for line in file:
-            if line.startswith('#'):
+            if line.strip().startswith('#'):
                 continue
 
             data = line.strip().split(';')
 
             if len(data) == 6:
-                isbn, title, publisher, base_price, discount, sell_date = data
+                isbn, title, publisher, base_price, discount, sale_date = data
 
-                if isbn not in sales_hash_table:
-                    sales_hash_table[isbn] = {}
+                if isbn not in hash_table.keys():
+                    hash_table[isbn] = {}
 
-                if sell_date not in sales_hash_table[isbn]:
-                    sales_hash_table[isbn][sell_date] = []
+                if sale_date not in hash_table[isbn].values():
+                    hash_table[isbn][sale_date] = []
 
-                new_base_price = re.findall(r'\d*\.[0-9]{2}', base_price)[0]
+                hash_table[isbn][sale_date].append((title, publisher, base_price, discount))
 
-                sales_hash_table[isbn][sell_date].append((title, publisher, new_base_price, discount))
-
-    return sales_hash_table
+    return hash_table
