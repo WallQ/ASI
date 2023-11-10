@@ -1,0 +1,7 @@
+#TipoProc;TipoContrato;CPV;EA;EAJ;Preco;DataContrato;Prazo
+Consulta Prévia; Aquisição; 44423740-0;Município (506430339);Water(509375581);638,00 €;04/09/2023/;30
+Consulta Prévia; XYZWOER; 79823000-9;Município (506430339);Rober(509371281);1.938,23 €;04/10/2023/;
+Ajuste Direto; Empreitada; 79823000-9;Município (506430339);Rober(534323441);5.575,44 €;05/11/2023/;15
+Consulta Prévia; Aquisição; 44423740-0;Município (506430345);Zyh(533323441);638,00 €;04/09/2023/;30
+Ajuste Direto; XYZWOER; 79823000-9;Município (506430345);Per(509371986);10.938,23 €;04/10/2023/;
+Ajuste Direto; Empreitada; 79823000-9;Município (506430345);Zyh(533323441);15.575,44 €;05/11/2023/;15
